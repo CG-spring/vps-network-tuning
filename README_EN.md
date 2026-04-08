@@ -1,29 +1,24 @@
 # Vps Network Tuning
 
-> Open-source tools and guides
-
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **[Chinese](README.md)**
 
----
-
 ## Introduction
 
-Vps Network Tuning provides practical tools for VPS server management.
+Open-source tools for VPS server management.
 
 ## Features
 
 - One-click deployment
-- Performance optimization
-- Security hardening
-- Automation tools
+- Performance monitoring
+- Security tools
+- Automation scripts
 
 ## Quick Start
 
 ```bash
 git clone https://github.com/CG-spring/vps-network-tuning.git
-cd vps-network-tuning
 ```
 
 ## Resources
